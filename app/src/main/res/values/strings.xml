@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wikipedia App</string>
+    <string name="title_activity_main">Wikipedia</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_history">History</string>
+    <string name="Open_Web">Open Web View</string>
+    <string name="web_activity">Wikipedia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">DashBoard</string>
+    <string name="title_notifications">Notification</string>
+</resources>
